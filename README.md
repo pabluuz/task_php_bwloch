@@ -115,4 +115,4 @@ Resulting response should contain information about following statistics for exc
 
 1. Extra challenge (optional): assume heavy load (many requests per second)
 
-**This is it - GOOD LUCK!**
+**This is it - GOOD LUCK!** 
